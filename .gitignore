@@ -1,0 +1,9 @@
+# Executáveis gerados pelo gcc
+fibonacci
+arvore
+*.exe
+*.o
+*.out
+
+# Python
+__pycache__/
